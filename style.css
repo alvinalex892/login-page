@@ -9,12 +9,12 @@ height:100vh;
 display:flex;
 justify-content:center;
 align-items:center;
-background:linear-gradient(135deg,#4facfe,##0059fe);
+background:linear-gradient(135deg,#063157,#00060a);
 }
 login-container{
 background:#040d40;
 padding:30px;
-border-radius:10px;
+border-radius:20px;
 width:300px;
 text-align:h2;
 box-shadow:0 4px 15px rgba(0,0,0,0.3);
@@ -46,6 +46,7 @@ register{
 margin-top:15px;
 font-size:20px;
 }
+
 
 
 
