@@ -2,7 +2,7 @@
 margin:10;
 padding:20;
 box-sizing:border-box;
-font-family:Arial,Papyrus;
+font-family:Papyrus;
 }
 body{
 height:100vh;
@@ -34,7 +34,7 @@ width:100%;
 padding:10px;
 background:#4facfe;
 border:none;
-color:#6495ED;
+color:#570307;
 border-radius:5px;
 cursor:pointer;
 font-size:16px;
@@ -46,6 +46,7 @@ register{
 margin-top:15px;
 font-size:20px;
 }
+
 
 
 
