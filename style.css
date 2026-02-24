@@ -12,7 +12,7 @@ align-items:center;
 background:linear-gradient(135deg,#4facfe,##0059fe);
 }
 login-container{
-background:#fff;
+background:#040d40;
 padding:30px;
 border-radius:10px;
 width:300px;
@@ -46,6 +46,7 @@ register{
 margin-top:15px;
 font-size:20px;
 }
+
 
 
 
